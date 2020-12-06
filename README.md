@@ -109,3 +109,5 @@ Basics https://www.youtube.com/watch?v=hdI2bqOjy3c
 ### Node.js
 Basics https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
+### GIT version controlling
+Basics https://www.youtube.com/watch?v=SWYqp7iY_Tc
